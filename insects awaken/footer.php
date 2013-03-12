@@ -59,7 +59,7 @@
 		<span class="next pages"><?php lt_previous_post_link('%link') ?></span>
 	</div>
 <?php endif; ?>
-	<footer><p>© <a href="/" title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a> | <a href="http://yimity.com/2013/03/05/ospring-insects-awaken.html">oSpring 惊蛰</a> <?php echo __('by <a href="http://yimity.com/">一米</a>','silence'); ?>  | <a href="http://www.wordpress.org/">WordPress</a></p></footer>
+	<footer><p>© <a title="<?php bloginfo('name'); ?>" href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a> <?php echo __('Theme <a href="http://yimity.com/2013/04/01/wordpress-free-theme-hoar-frost-falls.html">Hoar-frost Falls</a> by <a href="https://yimity.com/" target="_blank">一米</a> Thanks <a href="http://www.diandian.com/themes/110/show" target="_blank">咖啡因折页</a>','silence'); ?> <?php echo __('Proudly powered by','silence'); ?><a title="<?php echo __('Proudly powered by WordPress','silence'); ?>" href="http://WordPress.org" target="_blank">WordPress</a></p></footer>
 </footer>
 
 

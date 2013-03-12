@@ -59,7 +59,7 @@
         ?>
         <!--<li><a href="http://localhost/typecho/index.php/archives/1/#comment-1">欢迎加入Typecho大家族</a></li>-->
     </div>
-    <footer>© <a title="<?php bloginfo('name'); ?>" href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a> <?php echo __('Theme by <a href="https://yimity.com/" target="_blank">一米</a> Thanks <a href="http://ben-lab.com/" target="_blank">Ben</a> & <a target="_blank" href="https://www.dnshh.com/">Hang</a>','ospring'); ?> <?php echo __('Proudly powered by','ospring'); ?><a title="<?php echo __('Proudly powered by WordPress','ospring'); ?>" href="http://WordPress.org" target="_blank">WordPress</a></footer>
+    <footer>© <a title="<?php bloginfo('name'); ?>" href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a> <?php echo __('Theme <a href="http://yimity.com/2013/04/01/wordpress-free-theme-hoar-frost-falls.html">Hoar-frost Falls</a> by <a href="https://yimity.com/" target="_blank">一米</a> Thanks <a href="http://ben-lab.com/" target="_blank">Ben</a> & <a target="_blank" href="https://www.dnshh.com/">Hang</a>','ospring'); ?> <?php echo __('Proudly powered by','ospring'); ?><a title="<?php echo __('Proudly powered by WordPress','ospring'); ?>" href="http://WordPress.org" target="_blank">WordPress</a></footer>
   </footer>
 
   <script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/script/hoar-frost-falls.js?v=1"></script>
