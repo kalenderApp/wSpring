@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-</section>
+<section>
 	<article id="article"><!--Conten Begin-->
 		<div class="errorbox">
 			<?php _e('O, This is 404 Page.', 'ospring'); ?>
