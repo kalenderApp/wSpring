@@ -1022,3 +1022,10 @@ section article input[type="submit"] {
 .jiathis_button_copy span.jtico_copy {
 	padding-left:32px !important;
 }
+
+#f404 {
+	border:none;
+}
+.errorbox {
+	text-align:center;
+}
