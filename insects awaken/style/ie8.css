@@ -1,0 +1,14 @@
+nav li {
+	float:left;
+}
+nav li li {
+	float:none;
+	display:block;
+}
+section article {
+	border-top: 1px solid #CAC6C1;
+	background: #E4E1DE;
+}
+#s {
+	line-height:25px;
+}

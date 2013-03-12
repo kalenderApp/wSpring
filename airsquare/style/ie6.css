@@ -1,0 +1,9 @@
+div,p,span, ul,li{display:none;}
+#show,#show p,#show ul li{display:block;}
+#show{width:560px;margin:150px auto 0 auto;background:#CCC;}
+p {margin:10px;}
+ul li {float:left;margin:0 5px;background:rgb(245,245,245)}
+a,span{display:block;}
+span{text-align:center;border-top:1px solid #FFF;padding:5px 0;}
+a {color:rgb(152,152,152);text-decoration:none;}
+a:hover {color:rgb(52,52,52);}

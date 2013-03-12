@@ -1,0 +1,19 @@
+.nav {
+  background:rgb(193,194,189);
+  border-radius: 3px;
+  behavior: url(http://i.w/wp-content/themes/breakup/script/PIE.htc);
+}
+#center {
+  background:rgb(236,246,191);
+  behavior: url(/wp-content/themes/breakup/script/PIE.htc);
+}
+#right {
+  background:rgb(240,240,240);
+  behavior: url(/wp-content/themes/breakup/script/PIE.htc);
+}
+.info {
+    border-radius: 8px;
+}
+.under {
+  margin:20px 0 20px 0;
+}

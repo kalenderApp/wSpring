@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AirSquare\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-29 09:52+0800\n"
+"PO-Revision-Date: 2011-11-29 09:52+0800\n"
+"Last-Translator: 一米 <yimity@gmail.com>\n"
+"Language-Team: 一米 <yimity@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: X:\\iw\\wp-content\\themes\\airsquare/\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "She always get some special days per month, you known."
+msgstr "每个月总有那么几天，你懂得！"
+
+#: 404.php:15
+#: gestbook.php:46
+#: index.php:98
+#: page.php:46
+#: search.php:46
+#: sidebar.php:109
+#: single.php:46
+msgid "Home"
+msgstr "主页"
+
+#: comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr "请不要直接进入此页面，谢谢！"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "此文章受密码保护，请输入密码以查看。"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "必须 <a href=\"%s\">登录</a> 才可以发表评论。"
+
+#: comments.php:64
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "登录账户：<a href=\"%1$s\">%2$s</a>， "
+
+#: comments.php:64
+msgid "Log out of this account"
+msgstr "登出此账户"
+
+#: comments.php:64
+msgid "Log out &raquo;"
+msgstr "登出 &raquo;"
+
+#: comments.php:69
+msgid "Name"
+msgstr "昵称"
+
+#: comments.php:69
+#: comments.php:72
+msgid "(required)"
+msgstr "(必须)"
+
+#: comments.php:72
+msgid "Mail (will not be published)"
+msgstr "邮件（不会被公开）"
+
+#: comments.php:75
+msgid "Website"
+msgstr "网址"
+
+#: comments.php:152
+msgid "Please Input Your Word"
+msgstr "请输入内容"
+
+#: comments.php:158
+msgid "Submit Comment"
+msgstr "提交(Ctrl+Enter)"
+
+#: comments.php:159
+msgid "Comments Failure, Maybe Repeated Comments or Server is Gone!"
+msgstr "评论失败，可能是重复评论或者服务器错误！"
+
+#: comments.php:160
+msgid "The Nickname Email and Comment are Required!"
+msgstr "昵称、邮件和评论必须填写！"
+
+#: comments.php:161
+msgid "Comments Success!"
+msgstr "评论成功！"
+
+#: footer.php:8
+msgid "Copyright &copy; "
+msgstr "版权所有 &copy; "
+
+#: footer.php:23
+msgid "by <a href=\"http://yimity.com\" target=\"_blank\">一米</a>"
+msgstr "由 <a href=\"http://yimity.com\" target=\"_blank\">一米</a>提供"
+
+#: functions.php:5
+msgid "Navigation"
+msgstr "导航"
+
+#: functions.php:82
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: functions.php:92
+msgid "Current Theme Options"
+msgstr "当前主题选项"
+
+#: functions.php:99
+msgid "Analytics"
+msgstr "网站统计"
+
+#: functions.php:101
+msgid "HTML enabled"
+msgstr "HTML 可用"
+
+#: functions.php:107
+msgid "enabled analytics."
+msgstr "使网站统计可用"
+
+#: functions.php:118
+msgid "Logo"
+msgstr "标志"
+
+#: functions.php:120
+msgid "Logo url"
+msgstr "标志地址"
+
+#: functions.php:131
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:133
+msgid "Username"
+msgstr "用户名"
+
+#: functions.php:144
+msgid "G+"
+msgstr "G+"
+
+#: functions.php:146
+msgid "G+ Number"
+msgstr "G+ 号码"
+
+#: functions.php:157
+msgid "Tips"
+msgstr "使用说明"
+
+#: functions.php:159
+msgid "Tips Content HTML enabled,Separated by semicolons"
+msgstr "使用说明内容，HTML 可用，半角分号分隔"
+
+#: functions.php:170
+msgid "Commentads"
+msgstr "评论框广告"
+
+#: functions.php:172
+msgid "Ads Code 125*125 HTML enabled"
+msgstr "125*125大小，HTML 可用"
+
+#: functions.php:183
+msgid "Background"
+msgstr "背景"
+
+#: functions.php:185
+msgid "The Left Background Image"
+msgstr "网站左侧背景图片"
+
+#: functions.php:216
+msgid "Windows Phone 7 Style"
+msgstr "Windows Phone 7 风格"
+
+#: functions.php:222
+msgid "enabled Windows Phone 7 Style."
+msgstr "启用 Windows Phone 7 风格"
+
+#: functions.php:228
+msgid "Description"
+msgstr "描述"
+
+#: functions.php:230
+msgid "Site Description"
+msgstr "站点描述"
+
+#: functions.php:242
+#: gestbook.php:48
+#: index.php:43
+#: page.php:48
+#: search.php:48
+#: single.php:48
+msgid "Keywords"
+msgstr "关键字"
+
+#: functions.php:244
+msgid "Site Keywords"
+msgstr "站点关键字"
+
+#: functions.php:261
+msgid "Update Options"
+msgstr "更新选项"
+
+#: functions.php:301
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:301
+#: gestbook.php:14
+#: page.php:14
+#: search.php:14
+#: single.php:14
+msgid "Y.m.j"
+msgstr "Y.m.j"
+
+#: functions.php:303
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:304
+msgid "Quote"
+msgstr "引用"
+
+#: functions.php:307
+#: functions.php:309
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:317
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: gestbook.php:14
+#: page.php:14
+#: search.php:14
+#: single.php:14
+msgid "Date: "
+msgstr "日期："
+
+#: gestbook.php:14
+#: page.php:14
+#: search.php:14
+#: single.php:14
+msgid "Categories: "
+msgstr "分类："
+
+#: gestbook.php:14
+#: page.php:14
+#: search.php:14
+#: single.php:14
+msgid "Tags: "
+msgstr "标签："
+
+#: gestbook.php:46
+#: index.php:41
+#: page.php:46
+#: search.php:46
+#: single.php:46
+msgid "BacktoTop"
+msgstr "返回顶部"
+
+#: gestbook.php:49
+#: index.php:44
+#: page.php:49
+#: search.php:49
+#: single.php:49
+msgid "Search"
+msgstr "搜 索"
+
+#: header.php:10
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - 所有文章"
+
+#: header.php:11
+msgid "RSS 2.0 - all comments"
+msgstr "RSS 2.0 - 所有评论"
+
+#: index.php:51
+msgid "Tips:"
+msgstr "使用说明："
+
+#: index.php:52
+msgid "Move mouse to left to show post list and navigation"
+msgstr "首页时请鼠标移动到左侧，以显示文章列表和翻页方向键，中间左右箭头。"
+
+#: index.php:53
+msgid "Click to view post in right,and more click to load the post page to comment"
+msgstr "点击，即可在右侧查看文章，如果想要评论，可点击右侧文章标题，或者再次点击右侧此文章列表。"
+
+#: index.php:54
+msgid "In post page just have the pre and next post navigation"
+msgstr "文章页只有上下翻页，在右侧中部。"
+
+#: index.php:92
+msgid "Old Posts"
+msgstr "旧文章"
+
+#: index.php:93
+msgid "New posts"
+msgstr "新文章"
+
+#: index.php:101
+#: sidebar.php:112
+msgid "Categories"
+msgstr "分类"
+
+#: index.php:109
+#: sidebar.php:121
+msgid "Pages"
+msgstr "页面"
+
+#: index.php:117
+#: sidebar.php:129
+msgid "Menu"
+msgstr "菜单"
+
+#: sidebar.php:13
+msgid "You can scroll the page using PageUp and PageDown"
+msgstr "支持使用 PageUp 和 PageDown 翻页"
+

@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LighterBlue 0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-09 23:34+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 一米 <i@yimi.in>\n"
+"Language-Team: 一米 <i@yimi.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: D:\\WEB\\Web Sites\\AppServ\\www\\themes\\wp-content\\themes\\lighterblue\\\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Hello.this is 404."
+msgstr "嗨，这里是404。"
+
+#: 404.php:7
+#: header.php:38
+msgid "Search"
+msgstr "搜索"
+
+#: comments-popup.php:6
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - Comments on %2$s"
+
+#: comments-popup.php:25
+msgid "Comments"
+msgstr "评论"
+
+#: comments-popup.php:27
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "使用<abbr title=\"Really Simple Syndication\">RSS</abbr>订阅此文章的评论."
+
+#: comments-popup.php:30
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "TrackBack 此文章的 <abbr title=\"Universal Resource Locator\">URL</abbr>是: <em>%s</em>"
+
+#: comments-popup.php:48
+msgid "Comment"
+msgstr "评论"
+
+#: comments-popup.php:48
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments-popup.php:48
+msgid "Pingback"
+msgstr "Pingback"
+
+#: comments-popup.php:48
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "%1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: comments-popup.php:54
+msgid "No comments yet."
+msgstr "没有评论"
+
+#: comments-popup.php:58
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: comments-popup.php:59
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "自动断行,邮件永远不会被显示, 可以使用的<acronym title=\"Hypertext Markup Language\">HTML</acronym> 标签: <code>%s</code>"
+
+#: comments-popup.php:63
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "登录账户: <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"退出此账户\">登出 &raquo;</a>"
+
+#: comments-popup.php:67
+#: comments.php:72
+msgid "Name"
+msgstr "昵称"
+
+#: comments-popup.php:72
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments-popup.php:77
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: comments-popup.php:82
+msgid "Your Comment"
+msgstr "您的评论"
+
+#: comments-popup.php:90
+msgid "Say It!"
+msgstr "提交"
+
+#: comments-popup.php:95
+msgid "Sorry, the comment form is closed at this time."
+msgstr "对不起，此时评论被关闭。"
+
+#: comments-popup.php:100
+msgid "Close this window."
+msgstr "关闭窗口"
+
+#: comments-popup.php:106
+#: index.php:31
+#: search.php:33
+#: single.php:39
+msgid "Sorry, no posts matched your criteria."
+msgstr "对不起，没有文章被搜索到。"
+
+#: comments-popup.php:110
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "<a href=\"%s\" title=\"基于 WordPress 构建，最好的博客平台\"><strong>WordPress</strong></a>"
+
+#: comments.php:7
+msgid "Please do not load this page directly. Thanks!"
+msgstr "请不要直接进入此页面，谢谢。"
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "此文章被密码保护，输入密码才能查看哦。"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "评论被关闭"
+
+#: comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "必须<a href=\"%s\">登录</a>才能发表评论。"
+
+#: comments.php:67
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "登录账户: <a href=\"%1$s\">%2$s</a>."
+
+#: comments.php:67
+msgid "Log out of this account"
+msgstr "退出此账户"
+
+#: comments.php:67
+msgid "Log out &raquo;"
+msgstr "登出 &raquo;"
+
+#: comments.php:72
+#: comments.php:75
+msgid "(required)"
+msgstr "(*)"
+
+#: comments.php:75
+msgid "Mail (will not be published)"
+msgstr "邮箱（保密）"
+
+#: comments.php:78
+msgid "Website"
+msgstr "网址"
+
+#: comments.php:92
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: footer.php:10
+msgid "Copyright &copy; "
+msgstr "版权所有 &copy; "
+
+#: footer.php:22
+msgid "<a href=\"http://wordpress.org/\">WordPress</a> | <a href=\"http://yimi.in/2011/05/09/lighterblue.html\">LighterBlue</a>"
+msgstr "<a href=\"http://wordpress.org/\">WordPress</a> | <a href=\"http://yimi.in/2011/05/09/lighterblue.html\" title=\"LighterBlue 详细信息\">LighterBlue</a>"
+
+#: footer.php:49
+msgid "show siderbar"
+msgstr "显示边栏"
+
+#: footer.php:54
+#: header.php:28
+msgid "close siderbar"
+msgstr "关闭边栏"
+
+#: functions.php:75
+msgid "Current Theme Options"
+msgstr "当前主题选项"
+
+#: functions.php:82
+msgid "Analytics"
+msgstr "统计代码"
+
+#: functions.php:84
+msgid "HTML enabled"
+msgstr "HTML 可用"
+
+#: functions.php:90
+msgid "enabled analytics."
+msgstr "使统计代码可用"
+
+#: functions.php:101
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:103
+msgid "Username"
+msgstr "用户名"
+
+#: functions.php:115
+msgid "Tips"
+msgstr "提示"
+
+#: functions.php:117
+msgid "Tips Content HTML enabled,Separated by semicolons"
+msgstr "提示内容 HTML 可用 以英文分号分割"
+
+#: functions.php:129
+msgid "Description"
+msgstr "描述"
+
+#: functions.php:131
+msgid "Site Description"
+msgstr "网站描述"
+
+#: functions.php:143
+msgid "Keywords"
+msgstr "关键词"
+
+#: functions.php:145
+msgid "Site Keywords"
+msgstr "网站关键词"
+
+#: functions.php:157
+msgid "Commentads"
+msgstr "评论框广告"
+
+#: functions.php:159
+msgid "Ads Code 125*125 HTML enabled"
+msgstr "广告代码 125*125 HTML 可用"
+
+#: functions.php:176
+msgid "Update Options &raquo;"
+msgstr "更新设定 &raquo;"
+
+#: functions.php:264
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:264
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: functions.php:264
+msgid "H:i"
+msgstr "H:i"
+
+#: functions.php:268
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:269
+msgid "Quote"
+msgstr "引用"
+
+#: functions.php:272
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:274
+msgid "Advanced edit"
+msgstr "高级编辑"
+
+#: functions.php:280
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论等待审核"
+
+#: header.php:46
+msgid "home"
+msgstr "主页"
+
+#: index.php:8
+#: search.php:10
+#: single.php:15
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "%s 的固定连接"
+
+#: index.php:12
+#: search.php:14
+#: single.php:19
+msgid "F"
+msgstr "F"
+
+#: index.php:13
+#: search.php:15
+#: single.php:20
+msgid "d"
+msgstr "d"
+
+#: index.php:17
+#: search.php:19
+#: single.php:24
+msgid "No comments"
+msgstr "无评论"
+
+#: index.php:17
+#: search.php:19
+#: single.php:24
+msgid "1 comment"
+msgstr "1 条评论"
+
+#: index.php:17
+#: search.php:19
+#: single.php:24
+msgid "% comments"
+msgstr "% 条评论"
+
+#: index.php:17
+#: search.php:19
+#: single.php:24
+msgid "Comments off"
+msgstr "评论关闭"
+
+#: index.php:21
+#: search.php:23
+#: single.php:28
+msgid "Read more..."
+msgstr "阅读更多..."
+
+#: index.php:42
+#: search.php:41
+msgid "Newer Entries"
+msgstr "新文章"
+
+#: index.php:43
+#: search.php:42
+msgid "Older Entries"
+msgstr "旧文章"
+
+#: search.php:4
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: search.php:5
+#, php-format
+msgid "Keyword: &#8216;%1$s&#8217;"
+msgstr "关键字: &#8216;%1$s&#8217;"
+
+#: sidebar.php:14
+msgid "New posts"
+msgstr "最新文章"
+
+#: sidebar.php:18
+msgid "Rand posts"
+msgstr "随机文章"
+
+#: sidebar.php:44
+msgid "New comments"
+msgstr "最新评论"
+
+#: sidebar.php:49
+msgid "<h3>New comments</h3>"
+msgstr "<h3>最新评论</h3>"
+
+#: sidebar.php:78
+msgid "Tags"
+msgstr "标签"
+
+#: sidebar.php:88
+msgid "Cats"
+msgstr "分类"
+
+#: sidebar.php:98
+msgid "Meta"
+msgstr "管理"
+
+#: sidebar.php:109
+msgid "Links"
+msgstr "链接"
+
+#: single.php:8
+msgid "Go to homepage"
+msgstr "返回主页"
+
+#: single.php:8
+msgid "Home"
+msgstr "主页"
+
+#~ msgid "\"Current Theme Options\", \"Current Theme Options\""
+#~ msgstr "\"Current Theme Options\", \"Current Theme Options\""
+

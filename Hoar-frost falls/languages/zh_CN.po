@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hoar-frost falls\n"
+"POT-Creation-Date: 2013-03-11 17:57+0800\n"
+"PO-Revision-Date: 2013-03-11 17:57+0800\n"
+"Last-Translator: 一米 <yimity@yimity.com>\n"
+"Language-Team: 一米 <yimity@yimity.com>\n"
+"Language: 简体中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: F:\\Yunio\\iw\\wp-content\\themes\\Hoar-frost falls\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:35
+msgid "Please do not load this page directly. Thanks!"
+msgstr "请不要直接加载此页面，谢谢。"
+
+#: comments.php:38
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "此文章受密码保护，请输入密码以查看评论。"
+
+#: comments.php:46 content-aside.php:3 content-audio.php:3 content-chat.php:3
+#: content-gallery.php:3 content-image.php:3 content-link.php:3
+#: content-quote.php:3 content-status.php:3 content-video.php:3 content.php:3
+#: index.php:7 single.php:30
+msgid "No comments"
+msgstr "无评论"
+
+#: comments.php:46 content-aside.php:3 content-audio.php:3 content-chat.php:3
+#: content-gallery.php:3 content-image.php:3 content-link.php:3
+#: content-quote.php:3 content-status.php:3 content-video.php:3 content.php:3
+#: index.php:7 single.php:30
+msgid "1 comment"
+msgstr "1 条评论"
+
+#: comments.php:46 content-aside.php:3 content-audio.php:3 content-chat.php:3
+#: content-gallery.php:3 content-image.php:3 content-link.php:3
+#: content-quote.php:3 content-status.php:3 content-video.php:3 content.php:3
+#: index.php:7 single.php:30
+#, php-format
+msgid "% comments"
+msgstr "% 评论"
+
+#: comments.php:46 content-aside.php:3 content-audio.php:3 content-chat.php:3
+#: content-gallery.php:3 content-image.php:3 content-link.php:3
+#: content-quote.php:3 content-status.php:3 content-video.php:3 content.php:3
+#: index.php:7 single.php:30
+msgid "Comments off"
+msgstr "评论已关闭"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: comments.php:81
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "您必须 <a href=\"%s\">登录</a> 才可以发表评论"
+
+#: comments.php:88
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "以 <a href=\"%1$s\">%2$s</a> 登录"
+
+#: comments.php:88
+msgid "Log out of this account"
+msgstr "登出此账户"
+
+#: comments.php:88
+msgid "Log out &raquo;"
+msgstr "登出"
+
+#: comments.php:92 comments.php:93
+msgid "Name"
+msgstr "昵称"
+
+#: comments.php:93 comments.php:96
+msgid "(required)"
+msgstr "(必须)"
+
+#: comments.php:95
+msgid "Mail (required)"
+msgstr "邮件(必须)"
+
+#: comments.php:96
+msgid "Mail (will not be published)"
+msgstr "邮件(不会被公布)"
+
+#: comments.php:98 comments.php:99
+msgid "Website"
+msgstr "网址"
+
+#: comments.php:129
+msgid "Please Input Your Words"
+msgstr "请输入评论内容"
+
+#: comments.php:134
+msgid "Submit Comment"
+msgstr "提  交"
+
+#: content-aside.php:3 content-audio.php:3 content-chat.php:3
+#: content-gallery.php:3 content-image.php:3 content-link.php:3
+#: content-quote.php:3 content-status.php:3 content-video.php:3 content.php:3
+#: index.php:7
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: content-aside.php:3 content-audio.php:3 content-chat.php:3
+#: content-gallery.php:3 content-image.php:3 content-link.php:3
+#: content-quote.php:3 content-status.php:3 content-video.php:3 content.php:3
+#: index.php:7
+msgid " views"
+msgstr " 围观"
+
+#: content-aside.php:5 content-audio.php:5 content-gallery.php:5
+#: content-image.php:5 content-link.php:5 content-quote.php:5
+#: content-status.php:6 content-video.php:5 content.php:5 index.php:9
+msgid "Read more..."
+msgstr "阅读更多..."
+
+#: content-aside.php:6 content-audio.php:6 content-chat.php:17
+#: content-gallery.php:6 content-image.php:6 content-link.php:6
+#: content-quote.php:6 content-status.php:7 content-video.php:6 content.php:6
+#: index.php:10
+msgid "Page"
+msgstr "页面"
+
+#: footer.php:62
+msgid ""
+"Theme by <a href=\"https://yimity.com/\" target=\"_blank\">一米</a> Thanks "
+"<a href=\"http://ben-lab.com/\" target=\"_blank\">Ben</a> & <a target="
+"\"_blank\" href=\"https://www.dnshh.com/\">Hang</a>"
+msgstr ""
+"主题由 <a href=\"https://yimity.com/\" target=\"_blank\">一米</a> 提供 感谢 "
+"<a href=\"http://ben-lab.com/\" target=\"_blank\">Ben</a> & <a target="
+"\"_blank\" href=\"https://www.dnshh.com/\">Hang</a>"
+
+#: footer.php:62
+msgid "Proudly powered by"
+msgstr "自豪的采用 "
+
+#: footer.php:62
+msgid "Proudly powered by WordPress"
+msgstr "自豪的采用 WordPress"
+
+#: functions.php:5
+msgid "Navigation"
+msgstr "导航"
+
+#: functions.php:80
+msgid "Theme Options"
+msgstr "主题设置"
+
+#: functions.php:88
+msgid "Current Theme Options"
+msgstr "主题设置"
+
+#: functions.php:94
+msgid "Analytics"
+msgstr "统计"
+
+#: functions.php:96
+msgid "HTML enabled"
+msgstr "HTML 可用"
+
+#: functions.php:102
+msgid "enabled analytics."
+msgstr "使统计可用"
+
+#: functions.php:113
+msgid "Share"
+msgstr "分享"
+
+#: functions.php:115
+msgid "Baidu Share ID"
+msgstr "百度分享 ID"
+
+#: functions.php:121
+msgid "enabled Share."
+msgstr "使分享可用"
+
+#: functions.php:133
+msgid "Footer line Number"
+msgstr "页脚行数"
+
+#: functions.php:135
+msgid "The number of the new comments, rand post and link in footer "
+msgstr "页脚的 最新评论 随机文章及友情链接的数目"
+
+#: functions.php:145
+msgid "Comment Ads"
+msgstr "评论框广告"
+
+#: functions.php:147
+msgid "Ads Code 125*125 HTML enabled"
+msgstr "125px*125px 大小 HTML 可用"
+
+#: functions.php:152
+msgid "enabled comment ad."
+msgstr "使评论框广告可用"
+
+#: functions.php:166
+msgid "Update Options"
+msgstr "更新选项"
+
+#: functions.php:186
+#, php-format
+msgid "<span class=\"name\">%s</span>"
+msgstr "<span class=\"name\">%s</span>"
+
+#: functions.php:188
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:188
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:192
+msgid "Your comment is awaiting moderation."
+msgstr "新的评论正在等待审核。"
+
+#: functions.php:209
+msgid "ago"
+msgstr "之前"
+
+#: functions.php:295 functions.php:310 index.php:32 index.php:41
+msgid "None"
+msgstr "木有啦"
+
+#: functions.php:297 functions.php:309 functions.php:319
+msgid "Prev"
+msgstr "上一篇"
+
+#: functions.php:297 functions.php:309 functions.php:319
+msgid "Next"
+msgstr "下一篇"
+
+#: functions.php:305
+msgid "Previous Post"
+msgstr "上一篇文章"
+
+#: functions.php:305
+msgid "Next Post"
+msgstr "下一遍文章"
+
+#: header.php:16
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - 所有文章"
+
+#: header.php:17
+msgid "RSS 2.0 - all comments"
+msgstr "RSS - 2.0 所有评论"
+
+#: header.php:52
+msgid "S"
+msgstr "搜"
+
+#: index.php:17 single.php:14
+msgid "Sorry, no posts matched your criteria."
+msgstr "对不起，没有符合您要求的文章。"
+
+#: index.php:30
+msgid "Newer"
+msgstr "更新"
+
+#: index.php:39
+msgid "Older"
+msgstr "更旧"

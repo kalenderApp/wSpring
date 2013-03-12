@@ -1,0 +1,38 @@
+#nav {
+	background:#8A959E;
+}
+#nav li {
+	position:relative;
+}
+#nav li ul li:hover {
+	background:rgb(200,204,97);
+}
+#nav li ul li ul {	
+	left:85px;
+}
+#nav li ul {
+	left:0;
+	margin-left:0px;
+}
+#nav li:hover{
+	background:#D5D265;
+}
+#nav li.selected {
+	background:#D5D265;
+}
+#postcontent {
+	background:rgb(241, 253, 186);
+}
+.tipcontent {
+	padding-top:11px;
+}
+#search {
+	background:#396673;
+	width:605px;
+}
+#footer {
+	background:#396673;
+}
+.backtotop {
+	margin-right:10px;
+}

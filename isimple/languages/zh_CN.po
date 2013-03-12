@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: X:\\iw\\wp-content\\themes\\isimple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-28 17:31+0800\n"
+"PO-Revision-Date: 2012-05-28 17:32+0800\n"
+"Last-Translator: 一米 <yimity@gmail.com>\n"
+"Language-Team: isimple <yimity@yimity.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: X:\\iw\\wp-content\\themes\\isimple\\\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "O, This is 404 Page."
+msgstr "哦，这是 404 页面！"
+
+#: 404.php:6
+msgid "The page not found!"
+msgstr "未找到页面"
+
+#: archive.php:7
+#: category.php:7
+#: content-aside.php:7
+#: content-audio.php:7
+#: content-gallery.php:7
+#: content-image.php:7
+#: content-link.php:24
+#: content-quote.php:7
+#: content-status.php:8
+#: content-video.php:7
+#: content.php:7
+msgid "Read more..."
+msgstr "更多..."
+
+#: archive.php:8
+#: category.php:8
+#: content-aside.php:8
+#: content-audio.php:8
+#: content-chat.php:20
+#: content-gallery.php:8
+#: content-image.php:8
+#: content-link.php:26
+#: content-quote.php:8
+#: content-status.php:9
+#: content-video.php:8
+#: content.php:8
+msgid "Page"
+msgstr "页码："
+
+#: archive.php:12
+#: category.php:12
+#: content-aside.php:15
+#: content-audio.php:15
+#: content-chat.php:27
+#: content-gallery.php:15
+#: content-image.php:15
+#: content-link.php:33
+#: content-quote.php:15
+#: content-status.php:16
+#: content-video.php:15
+#: content.php:15
+msgid "Y/m/j"
+msgstr "Y/m/j"
+
+#: archive.php:12
+#: category.php:12
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:28
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:34
+#: content-quote.php:16
+#: content-status.php:17
+#: content-video.php:16
+#: content.php:16
+msgid "No comments"
+msgstr "没有评论"
+
+#: archive.php:12
+#: category.php:12
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:28
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:34
+#: content-quote.php:16
+#: content-status.php:17
+#: content-video.php:16
+#: content.php:16
+msgid "1 comment"
+msgstr "1条评论"
+
+#: archive.php:12
+#: category.php:12
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:28
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:34
+#: content-quote.php:16
+#: content-status.php:17
+#: content-video.php:16
+#: content.php:16
+#, php-format
+msgid "% comments"
+msgstr "%条评论"
+
+#: archive.php:12
+#: category.php:12
+#: content-aside.php:16
+#: content-audio.php:16
+#: content-chat.php:28
+#: content-gallery.php:16
+#: content-image.php:16
+#: content-link.php:34
+#: content-quote.php:16
+#: content-status.php:17
+#: content-video.php:16
+#: content.php:16
+msgid "Comments off"
+msgstr "评论关闭"
+
+#: archive.php:18
+#: category.php:18
+msgid "Sorry, no posts matched your criteria."
+msgstr "抱歉，没有符合条件的文章。"
+
+#: archive.php:25
+#: category.php:25
+msgid "Newer Entries"
+msgstr "新文章"
+
+#: archive.php:26
+#: category.php:26
+msgid "Older Entries"
+msgstr "旧文章"
+
+#: comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr "请不要直接进入此页面。"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "本文章受密码保护。要查看评论，请输入密码。"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:58
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "要发表评论，您必须先<a href=\"%s\">登录</a>。"
+
+#: comments.php:65
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "以 <a href=\"%1$s\">%2$s</a> 登录。"
+
+#: comments.php:65
+msgid "Log out of this account"
+msgstr "登出这个帐号"
+
+#: comments.php:65
+msgid "Log out &raquo;"
+msgstr "登出 &raquo;"
+
+#: comments.php:69
+#: comments.php:70
+msgid "Name"
+msgstr "姓名"
+
+#: comments.php:70
+#: comments.php:73
+msgid "(required)"
+msgstr "(必填)"
+
+#: comments.php:72
+msgid "Mail (required)"
+msgstr "电子邮件，必填"
+
+#: comments.php:73
+msgid "Mail (will not be published)"
+msgstr "电子邮件 (不会被公开)"
+
+#: comments.php:75
+#: comments.php:76
+msgid "Website"
+msgstr "站点"
+
+#: comments.php:109
+msgid "Please Input Your Word"
+msgstr "请输入评论内容。"
+
+#: comments.php:115
+msgid "Submit Comment"
+msgstr "发表评论"
+
+#: comments.php:116
+msgid "Comments Failure, Maybe Repeated Comments or Server is Gone!"
+msgstr "评论失败，有可能是重复评论或服务器不可用。"
+
+#: comments.php:117
+msgid "The Nickname Email and Comment are Required!"
+msgstr "评论者姓名和电子邮件以及评论内容必须填写！"
+
+#: comments.php:118
+msgid "Comments Success!"
+msgstr "评论成功"
+
+#: footer.php:9
+msgid "Copyright &copy; "
+msgstr "版权所有 &copy; "
+
+#: footer.php:35
+msgid "by <a href=\"http://yimity.com\" target=\"_blank\">一米</a>"
+msgstr "由 <a href=\"http://yimity.com\" target=\"_blank\">一米</a> 提供"
+
+#: functions.php:5
+msgid "Navigation"
+msgstr "导航菜单"
+
+#: functions.php:88
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: functions.php:96
+msgid "Current Theme Options"
+msgstr "当前主题选项"
+
+#: functions.php:102
+msgid "Analytics"
+msgstr "统计:"
+
+#: functions.php:104
+msgid "HTML enabled"
+msgstr "HTML 代码可用"
+
+#: functions.php:110
+msgid "enabled analytics."
+msgstr "使统计可用"
+
+#: functions.php:121
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:123
+msgid "Logo url"
+msgstr "Logo 所指向的网址"
+
+#: functions.php:134
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:136
+msgid "Username"
+msgstr "用户名"
+
+#: functions.php:147
+msgid "G+"
+msgstr "G+"
+
+#: functions.php:149
+msgid "G+ Number"
+msgstr "G+ 数字"
+
+#: functions.php:160
+msgid "Tips"
+msgstr "说明："
+
+#: functions.php:162
+msgid "Tips Content HTML enabled,Separated by semicolons"
+msgstr "要删除掉的东西"
+
+#: functions.php:173
+msgid "Comment Ads"
+msgstr "评论框广告"
+
+#: functions.php:175
+msgid "Ads Code 125*125 HTML enabled"
+msgstr "广告代码：125*125 HTML 可用"
+
+#: functions.php:186
+msgid "Comment System"
+msgstr "评论系统"
+
+#: functions.php:190
+msgid "Use the original comment system"
+msgstr "使用原始评论系统"
+
+#: functions.php:191
+msgid "Use the DuoShuo comment system"
+msgstr "使用多说评论系统"
+
+#: functions.php:191
+msgid "How to"
+msgstr "如何使用"
+
+#: functions.php:193
+msgid "Please input the DuoShuo website short code :"
+msgstr "请输入多说网站短代码："
+
+#: functions.php:209
+msgid "Description"
+msgstr "描述"
+
+#: functions.php:211
+msgid "Site Description"
+msgstr "网站说明"
+
+#: functions.php:222
+msgid "Keywords"
+msgstr "关键字"
+
+#: functions.php:224
+msgid "Site Keywords"
+msgstr "关键字（以半角逗号分隔）："
+
+#: functions.php:238
+msgid "Update Options"
+msgstr "更新选项"
+
+#: functions.php:274
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:274
+msgid "Y.m.j"
+msgstr "Y.m.j"
+
+#: functions.php:276
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:277
+msgid "Quote"
+msgstr "引用"
+
+#: functions.php:280
+#: functions.php:282
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:289
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: functions.php:378
+#: functions.php:393
+msgid "None"
+msgstr "无"
+
+#: functions.php:388
+msgid "Previous Post"
+msgstr "上一篇文章"
+
+#: functions.php:388
+msgid "Next Post"
+msgstr "下一篇文章"
+
+#: functions.php:392
+msgid "Next"
+msgstr "下一页"
+
+#: functions.php:392
+msgid "Prev"
+msgstr "上一页"
+
+#: functions.php:402
+msgid "previous"
+msgstr "上一篇"
+
+#: functions.php:402
+msgid "next"
+msgstr "下一篇"
+
+#: header.php:45
+#: header.php:49
+msgid "Search"
+msgstr "搜 索"
+
+#: header.php:48
+msgid "Please input some keywords!"
+msgstr "请输入关键字！"
+
+#: header.php:49
+msgid "Cancel"
+msgstr "取 消"
+
+#~ msgid "RSS 2.0 - all posts"
+#~ msgstr "RSS 2.0 - 所有文章"
+
+#~ msgid "RSS 2.0 - all comments"
+#~ msgstr "RSS 2.0 - 所有评论"

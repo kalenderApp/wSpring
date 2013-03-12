@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BreakUp V 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-16 16:22+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 一米 <i@yimi.in>\n"
+"Language-Team: 一米 <i@yimi.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: X:\\iw\\wp-content\\themes\\breakup\\\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "She always get some special days per month, you known."
+msgstr "每个月总有那么几天，你懂得！"
+
+#: 404.php:15
+#: header.php:96
+#: header.php:103
+msgid "Home"
+msgstr "主页"
+
+#: comments.php:4
+#: inline-comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "请不要直接进入此页面。"
+
+#: comments.php:7
+#: inline-comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "此文章受密码保护，请输入密码查看。"
+
+#: comments.php:40
+#: inline-comments.php:40
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:56
+#: inline-comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "必须<a href=\"%s\">登录</a>才能发表评论。"
+
+#: comments.php:66
+#: inline-comments.php:66
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "登录账户：<a href=\"%1$s\">%2$s</a> "
+
+#: comments.php:66
+#: inline-comments.php:66
+msgid "Log out of this account"
+msgstr "退出此账户"
+
+#: comments.php:66
+#: inline-comments.php:66
+msgid "Log out &raquo;"
+msgstr "退出"
+
+#: comments.php:72
+#: inline-comments.php:72
+msgid "NikeName"
+msgstr "昵称"
+
+#: comments.php:73
+#: inline-comments.php:73
+msgid "Name"
+msgstr "昵称"
+
+#: comments.php:73
+#: comments.php:77
+#: inline-comments.php:73
+#: inline-comments.php:77
+msgid "(required)"
+msgstr "(*)"
+
+#: comments.php:77
+#: inline-comments.php:77
+msgid "Mail"
+msgstr "E-mail"
+
+#: comments.php:80
+#: comments.php:81
+#: inline-comments.php:80
+#: inline-comments.php:81
+msgid "Website"
+msgstr "网址"
+
+#: comments.php:85
+#: inline-comments.php:85
+msgid "Please input some words"
+msgstr "请输入您的评论"
+
+#: comments.php:88
+#: inline-comments.php:88
+msgid "Submit(Ctrl+Enter)"
+msgstr "提交(Ctrl+Enter)"
+
+#: footer.php:8
+msgid "Copyright &copy; "
+msgstr "版权所有©"
+
+#: footer.php:18
+msgid "by <a href=\"http://yimi.in\" target=\"_blank\">一米</a>"
+msgstr "由 <a href=\"http://yimi.in\" target=\"_blank\">一米</a> 提供"
+
+#: footer.php:23
+#: header.php:65
+msgid "Login"
+msgstr "登录"
+
+#: footer.php:36
+#: functions.php:162
+msgid "Keywords"
+msgstr "关键字"
+
+#: footer.php:37
+msgid "Search"
+msgstr "搜索"
+
+#: footer.php:41
+msgid "PageNum"
+msgstr "页码"
+
+#: footer.php:42
+msgid "Go"
+msgstr "转到"
+
+#: functions.php:5
+msgid "Navigation"
+msgstr "导航菜单"
+
+#: functions.php:70
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: functions.php:80
+msgid "Current Theme Options"
+msgstr "主题选项"
+
+#: functions.php:87
+msgid "Analytics"
+msgstr "统计"
+
+#: functions.php:89
+msgid "HTML enabled"
+msgstr "HTML 可用"
+
+#: functions.php:95
+msgid "enabled analytics."
+msgstr "使统计代码生效"
+
+#: functions.php:106
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:108
+msgid "Logo url"
+msgstr "Logo 地址"
+
+#: functions.php:120
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:122
+msgid "Username"
+msgstr "用户名"
+
+#: functions.php:134
+msgid "G+"
+msgstr "G+"
+
+#: functions.php:136
+msgid "G+ Number"
+msgstr "G+ 数字"
+
+#: functions.php:148
+msgid "Description"
+msgstr "描述"
+
+#: functions.php:150
+msgid "Site Description"
+msgstr "网站描述"
+
+#: functions.php:164
+msgid "Site Keywords"
+msgstr "网站关键字"
+
+#: functions.php:181
+msgid "Update Options"
+msgstr "更新选项"
+
+#: functions.php:199
+msgid "Sidebar_top"
+msgstr "边栏顶部"
+
+#: functions.php:208
+msgid "Sidebar_center"
+msgstr "边栏中部"
+
+#: functions.php:216
+msgid "Sidebar_bottom"
+msgstr "边栏底部"
+
+#: functions.php:250
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:250
+#: index.php:59
+#: single.php:57
+msgid "Y.m.j"
+msgstr "Y.m.j"
+
+#: functions.php:253
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:254
+msgid "Quote"
+msgstr "引用"
+
+#: functions.php:257
+#: functions.php:259
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:267
+msgid "Your comment is awaiting moderation."
+msgstr "评论等待审核。"
+
+#: header.php:34
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - 所有文章"
+
+#: header.php:35
+msgid "RSS 2.0 - all comments"
+msgstr "RSS 2.0 - 所有评论"
+
+#: header.php:58
+msgid "Username:"
+msgstr "用 户："
+
+#: header.php:62
+msgid "Password :"
+msgstr "密 码："
+
+#: header.php:70
+msgid "Remember"
+msgstr "记住我"
+
+#: header.php:75
+msgid "Recover password"
+msgstr "找回密码"
+
+#: header.php:81
+msgid "Logout"
+msgstr "登出"
+
+#: index.php:17
+#: single.php:17
+msgid "You can scroll the page using PageUp and PageDown"
+msgstr "支持使用 PageUp 和 PageDown 翻页"
+
+#: index.php:59
+#: single.php:57
+msgid "Date: "
+msgstr "时间："
+
+#: index.php:59
+#: single.php:57
+msgid "Categories: "
+msgstr "分类："
+
+#: index.php:59
+#: single.php:57
+msgid "Tags: "
+msgstr "标签："
+
+#: sidebar.php:12
+msgid "Rand posts"
+msgstr "随机文章"
+
+#: sidebar.php:33
+msgid "New comments"
+msgstr "最新文章"
+
+#: sidebar.php:38
+msgid "<h3>New comments</h3>"
+msgstr "<h3>最新评论</h3>"
+
+#: sidebar.php:67
+msgid "Tags"
+msgstr "标签："
+
+#: sidebar.php:77
+msgid "Cats"
+msgstr "分类"
+
+#: sidebar.php:87
+msgid "Links"
+msgstr "链接"
+
+#~ msgid "每个月总有那么一次，你懂得。"
+#~ msgstr "每个月总有那么一次，你懂得。"
