@@ -663,3 +663,9 @@ section article input[type="submit"] {
 	display:none;
 }
 
+#f404 {
+	border:none;
+}
+.errorbox {
+	text-align:center;
+}
