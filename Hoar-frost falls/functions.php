@@ -112,7 +112,7 @@ class oSpringHFFOptions {
 					<th scope="row">
 						<?php _e('Share', 'ospring'); ?>
 						<br/>
-						<small style="font-weight:normal;"><?php _e('Baidu Share ID', 'ospring') ?></small>
+						<!--<small style="font-weight:normal;"><?php _e('Baidu Share ID', 'ospring') ?></small>-->
 					</th>
 					<td>
 						<!-- 是否启用统计功能 -->
