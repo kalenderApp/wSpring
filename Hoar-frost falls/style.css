@@ -528,7 +528,9 @@ ol.commentlist li .comment-reply a:hover,.respond .cancel-comment-reply a:hover 
 .commentlist li {
 	margin:5px 0 0;/*每条评论之间的距离*/
 }
-
+li.comment {
+	margin:20px 0 0;/*每条评论之间的距离*/
+}
 .commentlist li p{
 	margin:3px 0;
 	padding:3px 0;
