@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title></title>
+  <title><?php bloginfo('name'); ?><?php wp_title(); ?></title>
   <link type="text/css" rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
   <!--[if lte IE 8]> 
     <script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/script/html5shiv.js"></script>
