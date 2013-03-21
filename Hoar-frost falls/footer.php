@@ -22,8 +22,8 @@
           $args = array('number'=>$linenumb,'status'=>'approve','user_id'=>0,'type'=>'comment');
           $comments = get_comments($args);
           foreach($comments as $comment) :
-            if (mb_strlen($comment->comment_author.$comment->comment_content) >= 17) {
-              $commenttext = mb_substr($comment->comment_content,0,(15-mb_strlen($comment->comment_author)),'utf-8');
+            if (mb_strlen($comment->comment_author.$comment->comment_content) >= 16) {
+              $commenttext = mb_substr($comment->comment_content,0,(14-mb_strlen($comment->comment_author)),'utf-8');
             } else {
               $commenttext = $comment->comment_content;
             }
