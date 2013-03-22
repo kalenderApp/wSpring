@@ -25,9 +25,9 @@
     <h1><a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a></h1>
     <h3><?php bloginfo('description'); ?></h3>
     <nav>
-      <ul>
+      <ul id="parent">
         <?php 
-          wp_list_categories('title_li=0&orderby=name&show_count=0&depth=1');//分类列表
+          wp_list_categories('title_li=0&orderby=name&show_count=0&depth=2');//分类列表
           $count_pages = wp_count_posts( 'page' ); //页面
           if ( $count_pages->publish > 0) { 
             wp_list_pages('title_li=&depth=1');

@@ -48,8 +48,7 @@ body {
   height:160px;
   background:#FFF;
   text-align:center;
-  overflow:hidden;
-
+  /*overflow:hidden;*/
   border-radius: 3px 3px 0 0;
   -moz-box-shadow: 0px 2px 5px rgba(0,0,0,0.15);
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.15);
@@ -73,7 +72,7 @@ body {
   height:35px;
   background: whiteSmoke;
 }
-
+/*
 #header ul {
   padding: 7px 35px;
   list-style: none;
@@ -97,6 +96,42 @@ body {
 #header li a:hover {
   background-color: #DDD;
 }
+*/
+/********** 2013.3.22 增加横排二级菜单 **********/
+#parent {
+  padding: 7px 35px;
+  list-style: none;
+  width:505px;
+  border-top: 1px solid #EEE;
+  float:left;
+}
+#parent li {
+  position:relative;
+  float:left;
+}
+#parent li a {
+  padding: 10px 12px;
+}
+#parent li a:hover, .current-cat a {
+  background:#00A9FF;/*#08C;*/
+  color:#FFF;
+}
+ul.children {
+  position:absolute;
+  top:29px;
+  left:0px;
+  width:400px;
+  z-index:9999;
+  padding: 7px 0;
+  display:none;
+}
+#parent li:hover .children {
+  display:block;
+}
+/********** 2013.3.22 增加横排二级菜单 **********/
+
+
+
 #search {
   float:left;
 }
