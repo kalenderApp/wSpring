@@ -4,4 +4,3 @@
       </div>
       	<a href="<?php the_permalink() ?>"><?php echo get_avatar($post->post_author, 64); ?></a>
         <?php the_content(__('Read more...', 'ospring')); ?>
-        <?php wp_link_pages( array( 'before' => '<div class="page-link"><div class="wp-pagenavi"><span>' . __( 'Page', 'ospring' ) . '</span>', 'after' => '</div></div><div class="c"></div>','link_before'=>'<span class="current">' ,'link_after'=>'</span>' ) ); ?>

@@ -291,13 +291,13 @@ function lt_adjacent_post_link($format, $link, $in_same_cat = false, $link_title
  
     if ( !$post ){
       //  return;
-	$string = '';
-    $link = __('None', 'ospring');
-	$format = str_replace('%link', $link, $format);
-    $adjacent = $previous ? __('Prev', 'ospring') : __('Next', 'ospring');
-    echo apply_filters( "{$adjacent}_post_link", $format, $link );
-	return;
-	}
+			$string = '';
+	    $link = '<span>'.__('None', 'ospring').'</span>';
+			$format = str_replace('%link', $link, $format);
+	    $adjacent = $previous ? __('Prev', 'ospring') : __('Next', 'ospring');
+	    echo apply_filters( "{$adjacent}_post_link", $format, $link );
+			return;
+		}
 
     $title = $post->post_title;
  
@@ -307,7 +307,7 @@ function lt_adjacent_post_link($format, $link, $in_same_cat = false, $link_title
     $title = apply_filters('the_title', $title, $post->ID);
     $date = mysql2date(get_option('date_format'), $post->post_date);
     $rel = $previous ? __('Next', 'ospring') : __('Prev', 'ospring');
-	$rel = $rel ? $rel : __('None', 'ospring');
+	$rel = $rel ? $rel : '<span>'.__('None', 'ospring').'</span>';
 	
     //$string = '<a href="'.get_permalink($post).'" title="'.$link.'" rel="'.$rel.'">';
     $link = str_replace('%title', $title, $link);
