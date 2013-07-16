@@ -1,7 +1,7 @@
 /*
 Theme Name: wSpring Hoar-frost Falls
 Theme URI: http://yimity.com/2013/03/20/wordpress-free-theme-hoar-frost-falls.html
-Version: 1.1.1
+Version: 1.1.3
 Author: 一米
 Author URI: http://yimity.com
 */
@@ -116,7 +116,7 @@ body {
   background:#00A9FF;/*#08C;*/
   color:#FFF;
 }
-ul.children {
+#parent ul.children {
   position:absolute;
   top:29px;
   left:0px;
