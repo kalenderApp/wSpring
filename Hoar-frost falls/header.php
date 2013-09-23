@@ -36,17 +36,6 @@
             wp_nav_menu(array( 'theme_location' => 'primary','container' => '','items_wrap' => '%3$s' ));
           }
         ?>
-
-
-        <!--<li class="current"><a href="#">首页</a></li>
-        <li><a href="#">团队</a></li>
-        <li><a href="#">归档</a></li>
-        <li><a href="#">留言</a></li>
-        <li><a href="#">友链</a></li>
-        <li><a href="#">关于</a></li>
-        <li><a href="#">订阅</a></li>
-        <li><a href="#">折腾</a></li>
-        <li><a href="#">Typecho</a></li>-->
       </ul>
       <form onsubmit="javascript:if($('#searchbox').val() == ''){alert('请输入关键字！');return false}" id="search" action="<?php bloginfo('home'); ?>" method="get">
           <input type="text" id="searchbox" name="s" value=""><input type="submit" id="submitsearch" value="<?php _e('S', 'ospring'); ?>">

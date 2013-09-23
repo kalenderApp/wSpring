@@ -1,12 +1,12 @@
+@charset "UTF-8";
 /*
 Theme Name: wSpring Hoar-frost Falls
 Theme URI: http://yimity.com/2013/03/20/wordpress-free-theme-hoar-frost-falls.html
-Version: 1.1.3
+Version: 1.2
 Author: 一米
 Author URI: http://yimity.com
 */
 
-@charset "UTF-8";
 ::-webkit-scrollbar{ width:10px; height:10px; margin-right:2px }
 ::-webkit-scrollbar-track-piece{background-color:#F5F5F5;border-left:1px solid #D2D2D2;}
 ::-webkit-scrollbar-thumb{ background:#CBCBCB; width:10px }
@@ -36,7 +36,7 @@ section h1, section h2, section h3, section h4, section h5, section h6 {text-ren
 */
 
 body {
-  background:url(images/bg.png);
+  background:url(images/bg.jpg);
   width:760px;
   margin:0 auto;
   margin-top: 40px;
@@ -169,6 +169,11 @@ body {
   margin-top:4px;
   margin-left:2px;
   float:left;
+}
+#bar {
+    width:760px;
+    height:2px;
+    overflow:hidden;
 }
 #bar .green, #bar .ltergreen, #bar .yellow, #bar .deepred, #bar .red {
   width:152px;
@@ -612,8 +617,9 @@ ol.commentlist li .comment-reply a:hover,.respond .cancel-comment-reply a:hover 
 .commentlist li {
   margin:5px 0 0;/*每条评论之间的距离*/
 }
-li.comment {
+.commentlist li.comment {
   margin:20px 0 0;/*每条评论之间的距离*/
+    list-style:none;
 }
 .commentlist li p{
   margin:3px 0;
@@ -783,7 +789,7 @@ ul.commentlist li .children {
 
 /********** Single Respond **********/
 #comment {
-  width:692px;
+  width:100%;
   height:119px;
   height:123px\9;
   padding:3px;
@@ -803,7 +809,7 @@ ul.commentlist li .children {
   border: 1px solid #2275E2;
   background: #2275E2;
   cursor: pointer;
-  margin-top:5px;
+  margin:10px 0;
   color:#FFF;
   clear: both;
 }
@@ -821,29 +827,28 @@ ul.commentlist li .children {
   line-height:22px\9;
 }
 #author {
-  width:238px;
+  width:31%;
   padding: 0 3px 0 20px;
   height:22px;
   float:left;
   background: #DADDDD url(images/comment.png) 0 0 no-repeat;
 }
 #email {
-  width:411px;
+  width:61%;
   padding: 0 3px 0 20px;
   height:22px;
   float:right;
   background: #DADDDD url(images/comment.png) 0 -22px no-repeat;
 }
 #url {
-  width:678px;
+  width:97%;
   padding: 0 3px 0 20px;
   height:22px;
   background: #DADDDD url(images/comment.png) 0 -44px no-repeat;
 }
 /********** Smiley **********/
 #smiley {
-  width: 687px;
-  height:19px;
+  width: 100%;
   overflow:hidden;
   background:#FFF;
   margin: 0px 0px 4px 0px;

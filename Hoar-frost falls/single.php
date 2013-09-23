@@ -26,21 +26,6 @@
 
   </section>
 
-    <!--<div id="comments">
-
-      <h3><?php comments_popup_link(__('No comments', 'ospring'), __('1 comment', 'ospring'), __('% comments', 'ospring'), '', __('Comments off', 'ospring')); ?></h3>
-      <ol class="page">
-        <li><a class="prev" href="#">«</a></li>
-        <li><a href="#">1</a></li>
-        <li class="current"><a href="#">2</a></li>
-        <li><a href="#">3</a></li>
-        <li><a href="#">4</a></li>
-        <li><a class="next" href="#">»</a></li>
-      </ol>-->
-
-
-      <?php comments_template(); ?>
-      
-    </div>
+<?php comments_template(); ?>
 
 <?php get_footer(); ?>
