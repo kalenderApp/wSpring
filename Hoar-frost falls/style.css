@@ -2,7 +2,7 @@
 /*
 Theme Name: wSpring Hoar-frost Falls
 Theme URI: http://yimity.com/2013/03/20/wordpress-free-theme-hoar-frost-falls.html
-Version: 1.2
+Version: 1.2.1
 Author: 一米
 Author URI: http://yimity.com
 */
@@ -40,8 +40,9 @@ body {
   width:760px;
   margin:0 auto;
   margin-top: 40px;
-  font-family: Helvetica,"Microsoft Yahei",Tahoma,Arial,Helvetica,STHeiti;
+  font-family: "Helvetica Neue", Ubuntu, "Hiragino Sans GB W3", "Hiragino Sans GB", Helvetica, "Microsoft Yahei", Tahoma, Arial ,STHeiti;
   font-size:13px;
+  -webkit-font-smoothing:antialiased;
 }
 #header {
   width:760px;
